@@ -1,12 +1,12 @@
 # Albums #
 ### Create a new album ###
 
-1. Go to *Albums*
-2. In the upper right corner click :material-plus:
+1. Gehe zu *Albums*
+2. Klicken Sie in der oberen rechten ecke auf :material-plus:
 
     ![Screenshot](img/create-album.png)
     
-3. A new album with name "Month Year" is created
+3. Ein neues album mit Namen "Month Year" wird erstellt.
 
     ![Screenshot](img/album-name-1.png)
 
